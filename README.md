@@ -1,1 +1,1 @@
-Machine learning model that accurately predicts the sale price of a house, given a set of features such as square footage, number of bedrooms and bathrooms, location, and amenities using a dataset and XGBoost Regressor
+Machine learning model that accurately predicts the sale price of a house, given a set of features such as square footage, number of bedrooms and bathrooms, location, and amenities using csv dataset and XGBoost Regressor with feature engineering.
